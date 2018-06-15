@@ -80,6 +80,21 @@ Activities:
 * Project 2: Interactive turtle art
 
 ### Day 3
+
+Goals:
+
+* Plan more complex code
+* Expand knowledge of data structure and control structures
+
+Skills:
+
+* Create flowcharts for both code and non-code processes
+* Store and access data in lists
+* Create conditional statements
+* Create a simple game of hangman
+
+Activities:
+
 * Flowchart
 * Flowchart for repeated activity
 * Lists
@@ -87,15 +102,56 @@ Activities:
 * Project 3: Hangman
 
 ### Day 4
+
+Goals:
+
+* Find and correct errors in code
+* Combine previous skills into more complex code
+
+Skills:
+
+* Step through code, monitoring value of variables
+* Create debugging statements
+* Create a larger, more complex game. Depending on time, may create a game with AI
+
+Activities:
+
 * Debugging
 * Try mastermind game
 * Project 4: Mastermind/bagel game or Tic Tac Toe, depending on student preference
 
 ### Day 5
+
+Goals:
+
+* Review cartesian coordinates in the context of computer graphics
+* Strengthen understand of functions
+* Depending on time, may start day 6 here to give more time for Pygame
+
+Skills:
+
+* Create advanced functions
+* Use coordinates in a game
+
+Activities:
+
 * Cartesian coordinates
 * Project 5: Sonar game
 
 ### Day 6
+
+Goals:
+
+* Work with computer graphics
+
+Skills:
+
+* Create animations
+* Interact with user input
+* Detect collisions between objects
+
+Activities:
+
 * Introduce Pygame
 * Students experiment with my Pygame examples
 * Animate bouncing balls
@@ -104,11 +160,36 @@ Activities:
 * Project 6: Snake game
 
 ### Day 7
+
+Goals:
+
+* Continue Pygame
+* Refactor code
+
+Skills:
+
+* Modify existing code to include more advanced functionality
+* Work with sprites
+* Work with sound
+
+Activities:
+
 * Sprites and sounds
 * Project 7: Update one of the previous games with sprites and sounds
 * Introduce final challenge (students create game of their choice - default if they can't think of anything is Dodgeball)
 
 ### Day 8
+
+Goals:
+
+* Create a game of students' choice
+
+Skills:
+
+* Will vary for each student
+
+Activities:
+
 * Final challenge: Freely chosen game
 
 ### Notes
