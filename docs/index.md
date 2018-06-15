@@ -19,6 +19,8 @@ Week 2: July 16-19
 * Computer for each student
   * Most recent stable Python 3 version installed
   * Pygame installed
+  * Turtle installed
+  * IDLE installed
   * VS Code installed
 * Projector
 * Paper
@@ -27,6 +29,22 @@ Week 2: July 16-19
 ## Daily Overviews
 
 ### Day 1
+
+Goals:
+
+* Understand what programming is
+* Interact with code
+
+Skills:
+
+* Use pseudocode to describe a process
+* Use core data types: string, float, int, bool
+* Format strings
+* Take user input
+* Do math with code
+
+Activities: 
+
 * Introduce course goals
 * Survey on interests and experience
 * Expectations
@@ -38,7 +56,20 @@ Week 2: July 16-19
 * Project 1: Mad Libs or Guess The Number
 
 ### Day 2
-* Python Turtle
+
+Goals:
+
+* Use common structures to organize and control code
+* Visualize code with turtle
+
+Skills:
+
+* Use loops
+* Use and create functions
+
+Activities:
+
+* Initial experimentation with Python Turtle
 * For loops
 * For loops in Python Turtle
 * While loops
