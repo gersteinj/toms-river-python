@@ -15,3 +15,9 @@ In week 2, we'll use [pygame](https://www.pygame.org/news) to incorporate graphi
 ```powershell
 pip install pygame
 ```
+
+## Learning Resources
+
+* [Al Sweigart](https://inventwithpython.com/) has several excellent books on Python
+
+

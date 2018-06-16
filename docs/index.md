@@ -16,15 +16,19 @@ Week 1: July 9-12
 Week 2: July 16-19
 
 ## Supplies and Equipment
+
 * Computer for each student
   * Most recent stable Python 3 version installed
   * Pygame installed
-  * Turtle installed
   * IDLE installed
   * VS Code installed
 * Projector
 * Paper
 * Pens/pencils
+
+## Resources
+
+A guide to relevant software and learning resources is available on my [resources](resources.md) page.
 
 ## Daily Overviews
 
@@ -194,7 +198,4 @@ Activities:
 
 ### Notes
 After the first day, I'll have a better feel for how quickly the students will be able to move. If possible, I'll include some algorithms and simple AI on Day 4
-
-## Resources
-* [Invent with Python](http://inventwithpython.com/chapters/)
 
