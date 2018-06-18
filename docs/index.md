@@ -4,8 +4,7 @@
 Students will learn core programming concepts through the creation of games and animations. Each session will include demonstration, guided practice, and independent practice allowing students to adjust the class activity to their tastes.
 
 ## Course Philosophy
-Programming is an excellent tool as well as a great way to develop precise, logical thinking skills. This course is intended to introduce programming in an accessible way by showing students what they can do with code while preparing for them to learn more either on their own or in formal programming courses. For more info, see Al Sweigart's article [https://inventwithpython.com/blog/2012/03/03/nobody-wants-to-learn-how-to-program/](Nobody Wants to Learn How To Program).
-
+Programming is an excellent tool as well as a great way to develop precise, logical thinking skills. This course is intended to introduce programming in an accessible way by showing students what they can do with code while preparing for them to learn more either on their own or in formal programming courses. For more info, see [this excellent article](https://inventwithpython.com/blog/2012/03/03/nobody-wants-to-learn-how-to-program/) by Al Sweigart.
 ## Goals
 * Demystify programming
 * Explain core programming concepts
