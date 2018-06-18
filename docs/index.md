@@ -1,4 +1,6 @@
-# Toms River Tech Ready: Python
+---
+title: Toms River Tech Ready: Python
+---
 
 ## Session Description
 Students will learn core programming concepts through the creation of games and animations. Each session will include demonstration, guided practice, and independent practice allowing students to adjust the class activity to their tastes.
