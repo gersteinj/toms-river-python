@@ -54,6 +54,7 @@ Skills:
 Activities: 
 
 * Introduce course goals
+* Introduce final project
 * Survey on interests and experience
 * Expectations
 * What is programming?
