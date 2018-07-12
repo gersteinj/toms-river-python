@@ -2,6 +2,18 @@
 ---
 # Resources
 
+## Beginner-Friendly Coding
+
+* [Scratch](https://scratch.mit.edu/) and [Snap](https://snap.berkeley.edu/snapsource/snap.html) are really great ways of learning the logic of programming without needing to think about text at all. No login required.
+* [Trinket](https://trinket.io) has a variety of ways of looking at code. It can be embedded in webpages. Content includes music and physics. Trinket has block-based turtle (the graphical programming we were doing) options that will let you shift between block-based and text-based code.
+* [Makecode](https://www.microsoft.com/en-us/makecode?rtc=1) has several resources for working with resources from electronics to Minecraft.
+* All of these have teacher resources available
+
+## Resources for Chromebooks
+
+* All of my beginner resources are Chromebook-friendly
+* [Repl.it](https://repl.it/) is a web-based coding environment that works with a variety of languages and supports setting up classrooms to work more easily with students. [PythonAnywhere](https://www.pythonanywhere.com/) is similar, but Python-specific. It can do some things that Replit can't, but Replit is more beginner-friendly and more versatile.
+
 ## Python Language and Libraries
 
 ### Python
