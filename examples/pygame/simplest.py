@@ -15,6 +15,9 @@ while active:
     # Loop through the event queue. If we reach a QUIT event, set active to False
     # Once active is no longer True, the loop will no longer run
     for event in pygame.event.get():
+        # Add a line of code here to print the event
+        
+
         if event.type == pygame.QUIT:
             active = False
 
